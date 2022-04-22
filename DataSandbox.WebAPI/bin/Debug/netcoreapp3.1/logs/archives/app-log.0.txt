@@ -1,0 +1,13 @@
+2022-04-21 12:15:01.6063|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-04-21 12:15:01.7691|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-04-21 12:15:01.7941|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Repositories\DataSandbox\DataSandbox.WebAPI
+2022-04-21 13:02:27.4756|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-04-21 13:02:27.6132|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-04-21 13:02:27.6309|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Repositories\DataSandbox\DataSandbox.WebAPI
+2022-04-21 13:03:42.5064|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2022-04-21 13:04:52.3120|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-04-21 13:04:52.3848|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-04-21 13:04:52.4005|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Repositories\DataSandbox\DataSandbox.WebAPI
+2022-04-21 13:10:20.5399|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2022-04-21 13:10:20.6316|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2022-04-21 13:10:20.6316|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Repositories\DataSandbox\DataSandbox.WebAPI

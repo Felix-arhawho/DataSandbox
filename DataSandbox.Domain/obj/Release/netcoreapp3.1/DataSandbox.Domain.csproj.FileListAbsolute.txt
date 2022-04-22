@@ -1,0 +1,13 @@
+C:\Repositories\DataSandbox\DataSandbox.Domain\bin\Release\netcoreapp3.1\DataSandbox.Domain.deps.json
+C:\Repositories\DataSandbox\DataSandbox.Domain\bin\Release\netcoreapp3.1\DataSandbox.Domain.runtimeconfig.json
+C:\Repositories\DataSandbox\DataSandbox.Domain\bin\Release\netcoreapp3.1\DataSandbox.Domain.runtimeconfig.dev.json
+C:\Repositories\DataSandbox\DataSandbox.Domain\bin\Release\netcoreapp3.1\DataSandbox.Domain.dll
+C:\Repositories\DataSandbox\DataSandbox.Domain\bin\Release\netcoreapp3.1\DataSandbox.Domain.pdb
+C:\Repositories\DataSandbox\DataSandbox.Domain\obj\Release\netcoreapp3.1\DataSandbox.Domain.csproj.AssemblyReference.cache
+C:\Repositories\DataSandbox\DataSandbox.Domain\obj\Release\netcoreapp3.1\DataSandbox.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\DataSandbox\DataSandbox.Domain\obj\Release\netcoreapp3.1\DataSandbox.Domain.AssemblyInfoInputs.cache
+C:\Repositories\DataSandbox\DataSandbox.Domain\obj\Release\netcoreapp3.1\DataSandbox.Domain.AssemblyInfo.cs
+C:\Repositories\DataSandbox\DataSandbox.Domain\obj\Release\netcoreapp3.1\DataSandbox.Domain.csproj.CoreCompileInputs.cache
+C:\Repositories\DataSandbox\DataSandbox.Domain\obj\Release\netcoreapp3.1\DataSandbox.Domain.dll
+C:\Repositories\DataSandbox\DataSandbox.Domain\obj\Release\netcoreapp3.1\DataSandbox.Domain.pdb
+C:\Repositories\DataSandbox\DataSandbox.Domain\obj\Release\netcoreapp3.1\DataSandbox.Domain.genruntimeconfig.cache

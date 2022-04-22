@@ -1,0 +1,25 @@
+﻿Note that the versions used here are all version 5.0.6
+because this is the version that is compatible with .NET Core 3.1
+
+Install Package Microsoft.EntityFrameworkCore
+Install Package Microsoft.EntityFrameworkCore.SqlServer
+Install Package Microsoft.EntityFrameworkCore.Tools
+Install Package Microsoft.EntityFrameworkCore.Design
+
+
+How to make swagger your default page on project launch.
+
+Navigate to startup.cs, go to Configure method, under this section
+
+app.UseSwaggerUI(c => {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V2");
+            });
+
+ADD c.RoutePrefix = string.Empty; as shown below
+
+
+app.UseSwaggerUI(c => {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V2");
+                c.RoutePrefix = string.Empty;
+            });
+

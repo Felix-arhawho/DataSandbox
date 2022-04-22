@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Repositories\DataSandbox\DataSandbox.WebAPI\obj\Release\netcoreapp3.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Repositories\DataSandbox\DataSandbox.WebAPI\obj\Release\netcoreapp3.1\PubTmp\EFSQLScripts\DataSandbox.Domain.Context.DataSandboxContext.sql" />
+</sitemanifest>

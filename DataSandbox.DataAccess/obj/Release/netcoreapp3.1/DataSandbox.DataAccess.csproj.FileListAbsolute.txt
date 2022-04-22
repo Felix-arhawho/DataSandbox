@@ -1,0 +1,13 @@
+C:\Repositories\DataSandbox\DataSandbox.DataAccess\bin\Release\netcoreapp3.1\DataSandbox.DataAccess.deps.json
+C:\Repositories\DataSandbox\DataSandbox.DataAccess\bin\Release\netcoreapp3.1\DataSandbox.DataAccess.dll
+C:\Repositories\DataSandbox\DataSandbox.DataAccess\bin\Release\netcoreapp3.1\DataSandbox.DataAccess.pdb
+C:\Repositories\DataSandbox\DataSandbox.DataAccess\bin\Release\netcoreapp3.1\DataSandbox.Domain.dll
+C:\Repositories\DataSandbox\DataSandbox.DataAccess\bin\Release\netcoreapp3.1\DataSandbox.Domain.pdb
+C:\Repositories\DataSandbox\DataSandbox.DataAccess\obj\Release\netcoreapp3.1\DataSandbox.DataAccess.csproj.AssemblyReference.cache
+C:\Repositories\DataSandbox\DataSandbox.DataAccess\obj\Release\netcoreapp3.1\DataSandbox.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\DataSandbox\DataSandbox.DataAccess\obj\Release\netcoreapp3.1\DataSandbox.DataAccess.AssemblyInfoInputs.cache
+C:\Repositories\DataSandbox\DataSandbox.DataAccess\obj\Release\netcoreapp3.1\DataSandbox.DataAccess.AssemblyInfo.cs
+C:\Repositories\DataSandbox\DataSandbox.DataAccess\obj\Release\netcoreapp3.1\DataSandbox.DataAccess.csproj.CoreCompileInputs.cache
+C:\Repositories\DataSandbox\DataSandbox.DataAccess\obj\Release\netcoreapp3.1\DataSandbox.DataAccess.csproj.CopyComplete
+C:\Repositories\DataSandbox\DataSandbox.DataAccess\obj\Release\netcoreapp3.1\DataSandbox.DataAccess.dll
+C:\Repositories\DataSandbox\DataSandbox.DataAccess\obj\Release\netcoreapp3.1\DataSandbox.DataAccess.pdb
